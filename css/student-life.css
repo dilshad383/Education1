@@ -1,0 +1,46 @@
+section#activities{
+    & h1{
+        font-size: 3rem;
+    }
+    .card-wrapper{
+        gap: 2rem;
+        & .card{
+            text-align: left;
+            margin-block: 1rem;
+
+            & .icon-wrapper{
+                width: 3.7rem;
+                top: -2rem;
+                left: 1.5rem;
+            }
+            & h2{
+                font-size: 1.5rem;
+            }
+            & p{
+                color: #4C4C4D;
+            }
+        }
+    }
+}
+
+section#student-support{
+    .card-wrapper{
+        gap: 2rem;
+        & .card{
+            text-align: left;
+            margin-block: 1rem;
+
+            & .icon-wrapper{
+                width: 3.7rem;
+                top: -2rem;
+                left: 1.5rem;
+            }
+            & h2{
+                font-size: 1.5rem;
+            }
+            & p{
+                color: #4C4C4D;
+            }
+        }
+    }
+}
