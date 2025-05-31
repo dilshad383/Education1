@@ -308,13 +308,10 @@ section#benefits .header h3{
     background: #fff;
 }
 .card-wrapper .card .icon{
-    border: 2px solid #262626;
     top: -1.8rem;
     left: 1.3rem;
     width: 3.9rem;
-    background: #FFDECC;
-    padding: 1rem 17px;
-    border-radius: 10px;
+
 }
 .card-wrapper .card h4{
     font-size: 1.3rem;
@@ -377,11 +374,6 @@ section#testimonials .carousel{
         position: absolute;
         right: -5rem;
     }
-}
-section#testimonials .carousel .carousel-nav{
-    border: 2px solid #262626;
-    border-radius: 8px;
-    padding: .7em 1em;
 }
 section#testimonials .carousel .card{
     border: 2px solid #262626;
@@ -802,16 +794,7 @@ section#footer{
         & .footer-links .icon-group{
             margin-left: auto;
 
-            & .icon{
-                border: 2px solid #000;
-                border-radius: 8px;
-                padding: .8rem .9rem;
-                background: #FFDECC;
 
-                & img{
-                    width: 1.2rem;
-                }
-            }
         }
         & .copyright{
             text-align: center;
